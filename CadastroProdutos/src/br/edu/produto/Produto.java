@@ -16,8 +16,7 @@ public class Produto {
     }
 
     public void exibirDados() {
-        System.out.println("Nome: " + nome);
-        System.out.println("Preço: " + preço);
+        System.out.println("Nome: " + nome + "  | Preço: " + preço);
     }
 
     public static void exibirQuantidadeTotal() {
