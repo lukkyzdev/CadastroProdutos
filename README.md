@@ -1,4 +1,4 @@
-# <img align="center" alt="Fontes-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"> ATIVIDADE PRÁTICA ADS - Desenvolver um Programa em JAVA Que Simule o Cadastro de Produtos <img align="center" alt="Fontes-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+# <img align="center" alt="Fontes-Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"> ATIVIDADE PRÁTICA ADS - Desenvolver um Programa em JAVA Que Simule o Cadastro de Produtos <img align="center" alt="Fontes-Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 
 ## ORIENTAÇÃO DO PROJETO 📝
 
